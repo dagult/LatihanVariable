@@ -17,9 +17,9 @@ echo ("Nilai variable b adalah = $b <br>");
 echo ("Nilai variable komentar adalah = $komentar <br>");
 //variable bertipe stringer
 $hasil=$a+$b;
-echo ("Hasil jumlah a dan b adalah = $hasil <br>")
+echo ("Hasil jumlah a dan b adalah = $hasil <br>");
 //variable bertipe dauble
-$tgl = date ("d f y");
+$tgl = date ("d F Y");
 //variable bertipe tanggal
 $nama = "Mabes TNI";
 $garis = "=========================";
